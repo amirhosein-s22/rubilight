@@ -1,6 +1,6 @@
 {
   "last_version": "258",
-  "status": "on",
+  "status": "off",
   "update": "no",
-  "package": "ir.mservices.market"
+  "package": "app.rbmain.a"
 }
