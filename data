@@ -3,7 +3,8 @@
   "status": "on",
   "update": "of",
   "log1": "of",
-  "log2": "on",
+  "log2": "of",
+  "log3": "on",
   "aparat": "https://www.aparat.com/v/n28ol6n",
   "package": "com.rubilight.am"
 }
